@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ismb0001\\source\\repos\\Delta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F43794A5-78A1-4D0E-B0AC-0BDBBA4BCAE2}|Delta.pyproj|C:\\Users\\ismb0001\\source\\repos\\Delta\\Delta.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F43794A5-78A1-4D0E-B0AC-0BDBBA4BCAE2}|Delta.pyproj|solutionrelative:Delta.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delta.py",
+              "DocumentMoniker": "C:\\Users\\ismb0001\\source\\repos\\Delta\\Delta.py",
+              "RelativeDocumentMoniker": "Delta.py",
+              "ToolTip": "C:\\Users\\ismb0001\\source\\repos\\Delta\\Delta.py",
+              "RelativeToolTip": "Delta.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-30T08:31:48.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
