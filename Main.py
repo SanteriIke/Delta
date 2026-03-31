@@ -1,8 +1,7 @@
-import pandas as pd
+import pandas as pd 
 
-data = pd.read_csv("lap1.csv")
-time = data["time"]
-speed = data["speed"] 
+l1 = pd.read_csv("lap1.csv")
+l2 = pd.read_csv("lap2.csv")
 
-print(time)
-print(speed) 
+print("Previous Lap:\n", l1.head())
+print("Recent Lap:\n", l2.head())
